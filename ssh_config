@@ -1,0 +1,6 @@
+Host myserver
+    HostName 158.69.222.151
+    Port 22
+    User ubuntu
+    # 可选：如果有SSH密钥，可以指定
+    # IdentityFile ~/.ssh/id_rsa
